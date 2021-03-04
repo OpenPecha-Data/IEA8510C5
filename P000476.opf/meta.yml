@@ -1,15 +1,16 @@
-id: opecha:P000476
+id: P000476
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W3PD246
   title: དམྱལ་ཟངས་ནང་ན་ཀུ་རེ་མེད།
-  volume:
+  author: ''
+  volumes:
     0dbcce120d604064819486450fc01ba5:
       image_group_id: I2PD18291
       title: Volume 1 of dmyal zangs nang na ku re med/
       volume_number: 1
       total_pages: 298
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: དམྱལ་ཟངས་ནང་ན་ཀུ་རེ་མེད།
   author: ''
